@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">numberstrivia</string>
+    <string name="card_rank_default">(No rank)</string>
+</resources>
